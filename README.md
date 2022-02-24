@@ -26,4 +26,4 @@ cd CR4CK-FB
 
 git pull
 
-python2 pasker.py
+python2 nst.py
