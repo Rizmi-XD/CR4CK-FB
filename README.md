@@ -1,4 +1,4 @@
-# RIZM
+# RIZMI
 
 Crack Facebook Login Token Or Instagram Without Login
 
